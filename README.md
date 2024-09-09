@@ -3,7 +3,7 @@
 Meu nome é Lauanda
 
 - Sou estudante;
-- Apenastrabalhos didáticos;
+- Apenas trabalhos didáticos;
 - Cria da Alura.
 
 ![](https://media1.tenor.com/m/7lZR1X1zhZIAAAAC/i-love-you.gif)
